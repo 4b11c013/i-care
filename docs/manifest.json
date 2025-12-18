@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "i-care",
+  "name": "i-care 鼻胃管餵食指引",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,7 +19,9 @@
     }
   ],
   "start_url": ".",
+  "scope": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "orientation": "portrait",
+  "theme_color": "#2563eb",
   "background_color": "#ffffff"
 }
